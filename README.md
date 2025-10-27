@@ -1,6 +1,13 @@
-### Istituto Istruzione Lorenzo Guetti
-# Scienze Applicate - Informatica - 2024/2025
-## Syllabus
+### II Lorenzo Guetti | Indirizzo Scienze Applicate | Anno Scolastico 2024/2025
+
+# Laboratorio di Informatica
+
+Questo repository contiene i materiali didattici e i progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
+
+Syllabus:
+1. Laboratorio: Introduzione a Java
+2. Laboratorio: Introduzione a C++
+3. Laboratorio: Introduzione a Python
 
 <!--
 **Nima-00/Nima-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
