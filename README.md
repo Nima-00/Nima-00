@@ -9,7 +9,7 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 2. ⚙️ Laboratorio: Introduzione a C++
 3. 🐍 Laboratorio: Introduzione a Python
 4. 📝 Laboratorio: Introduzione a LaTeX
-5. ⚡ Laboratorio: Introduzione all'Elettronica
+5. ⚡ Laboratorio:Introduzione all'Elettronica Digitale
 
 ## ☕ Laboratorio: Introduzione a Java
 
