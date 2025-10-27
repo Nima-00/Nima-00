@@ -20,6 +20,17 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 ## 📝 Laboratorio: Introduzione a LaTeX
 
 ## ⚡ Laboratorio: Introduzione all'Elettronica
+L'obiettivo di questo laboratorio è mostrare come semplici circuiti elettrici permettano di sommare due numeri e salvare i risultati ottenuti.
+
+<img width="837" height="388" alt="architecture" src="https://github.com/user-attachments/assets/17e7ed4f-4617-40d2-adb4-a7897489f3e3" />
+
+In particolare, il laboratorio è suddiviso in tre parti:
+- Task 1: costruire passo passo una piccola ALU *- Arithmetic Logic Unit -* in grado di sommare o sottrarre due numeri scritti in notazione binaria.
+- Task 2: disegnare un registro, cioè un piccolo circuito elettrico che permette di salvare dei numeri
+- Task 3: integrare una ALU e due Registri grazie a un BUS comune
+
+I laboratori sono sviluppati su Circuitverse. Il materiale è preso da ..............
+
 
 
 <!--
