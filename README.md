@@ -1,5 +1,5 @@
 # Scienze Applicate - Informatica - 2024/2025
-## Istituto Istruzione Lorenzo Guetti
+### Istituto Istruzione Lorenzo Guetti
 ## Syllabus
 
 <!--
