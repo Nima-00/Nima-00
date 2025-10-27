@@ -5,11 +5,11 @@
 Questo repository contiene i materiali didattici e i progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
 ## Syllabus:
-1. ☕ Laboratorio: Introduzione a Java
-2. ⚙️ Laboratorio: Introduzione a C++
-3. 🐍 Laboratorio: Introduzione a Python
-4. 📝 Laboratorio: Introduzione a LaTeX
-5. ⚡ Laboratorio: Introduzione all'Elettronica Digitale
+1. ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
+2. ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-C)
+3. 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
+4. 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
+5. ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
 
 ## ☕ Laboratorio: Introduzione a Java
 
