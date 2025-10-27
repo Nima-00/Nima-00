@@ -1,4 +1,4 @@
-## Hi there 👋
+# Scienze Applicate - Informatica - 2024/2025
 
 <!--
 **Nima-00/Nima-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
