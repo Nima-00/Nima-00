@@ -1,4 +1,4 @@
-### II Lorenzo Guetti | Indirizzo Scienze Applicate | Anno Scolastico 2024/2025
+### II Lorenzo Guetti | Indirizzo Scienze Applicate | Anno Scolastico 2025/2026
 
 # Laboratorio di Informatica
 
