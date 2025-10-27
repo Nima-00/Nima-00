@@ -22,13 +22,12 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 ## ⚡ Laboratorio: Introduzione all'Elettronica Digitale
 
 <p align="center">
-<img width="450" alt="BUS" src="https://github.com/user-attachments/assets/e484e8dc-6daf-48c9-bad7-916d902b9941" />
+<img width="600" alt="BUS" src="https://github.com/user-attachments/assets/e484e8dc-6daf-48c9-bad7-916d902b9941" />
 </p>
 
 L'obiettivo di questo laboratorio è mostrare come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
 
 Il laboratorio è suddiviso in tre parti:
-
 1. **ALU** - Costruire un'*Arithmetic Logic Unit* in grado di sommare o sottrarre numeri binari
 2. **Registri** - Progettare un circuito per salvare dati
 3. **BUS** - Integrare ALU e registri tramite un bus comune
