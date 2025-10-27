@@ -25,6 +25,15 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 L'obiettivo di questo laboratorio è mostrare come semplici circuiti elettrici permettano di sommare due numeri e salvare i risultati ottenuti.
 
 
+Il laboratorio è suddiviso in tre parti:
+1. **ALU** - Costruire un'*Arithmetic Logic Unit* in grado di sommare o sottrarre numeri binari
+2. **Registri** - Progettare un circuito per salvare dati
+3. **BUS di sistema** - Integrare ALU e registri tramite un bus comune
+
+I laboratori sono sviluppati su [CircuitVerse](https://circuitverse.org/).  
+Materiale adattato da [fonte].
+
+
 In particolare, il laboratorio è suddiviso in tre parti:
 - Task 1: costruire passo passo una piccola ALU *- Arithmetic Logic Unit -* in grado di sommare o sottrarre due numeri scritti in notazione binaria.
 - Task 2: disegnare un registro, cioè un piccolo circuito elettrico che permette di salvare dei numeri
