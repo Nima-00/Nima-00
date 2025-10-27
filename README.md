@@ -33,7 +33,7 @@ I principali argomenti trattati sono:
 ## ⚡ Laboratorio: Introduzione all'Elettronica Digitale
 L'obiettivo di questo laboratorio è mostrare come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
 <p align="center">
-<img width="1886" height="582" alt="immagine" src="https://github.com/user-attachments/assets/32b93575-55c8-4dbd-8644-b1c15ea0829d" />
+<img width="1886" height="582" alt="new" src="https://github.com/user-attachments/assets/13ebe215-56db-4f11-bf80-ca4ade458595" />
 </p>
 <!--
 <p align="center">
