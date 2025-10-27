@@ -19,27 +19,23 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 
 ## 📝 Laboratorio: Introduzione a LaTeX
 
-## ⚡ Laboratorio: Introduzione all'Elettronica
-<img width="450" height="170" alt="architecture" src="https://github.com/user-attachments/assets/17e7ed4f-4617-40d2-adb4-a7897489f3e3" />
+## ⚡ Laboratorio: Introduzione all'Elettronica Digitale
 
-L'obiettivo di questo laboratorio è mostrare come semplici circuiti elettrici permettano di sommare due numeri e salvare i risultati ottenuti.
+<p align="center">
+<img width="450" alt="BUS" src="https://github.com/user-attachments/assets/e484e8dc-6daf-48c9-bad7-916d902b9941" />
+</p>
 
+L'obiettivo di questo laboratorio è mostrare come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
 
 Il laboratorio è suddiviso in tre parti:
+
 1. **ALU** - Costruire un'*Arithmetic Logic Unit* in grado di sommare o sottrarre numeri binari
 2. **Registri** - Progettare un circuito per salvare dati
-3. **BUS di sistema** - Integrare ALU e registri tramite un bus comune
+3. **BUS** - Integrare ALU e registri tramite un bus comune
 
-I laboratori sono sviluppati su [CircuitVerse](https://circuitverse.org/).  
-Materiale adattato da [fonte].
-
-
-In particolare, il laboratorio è suddiviso in tre parti:
-- Task 1: costruire passo passo una piccola ALU *- Arithmetic Logic Unit -* in grado di sommare o sottrarre due numeri scritti in notazione binaria.
-- Task 2: disegnare un registro, cioè un piccolo circuito elettrico che permette di salvare dei numeri
-- Task 3: integrare una ALU e due Registri grazie a un BUS comune
-
-I laboratori sono sviluppati su Circuitverse. Il materiale è preso da ..............
+**Risorse:**
+- **Piattaforma**: [CircuitVerse](https://circuitverse.org/) - simulatore di circuiti digitali online
+- **Materiale**: adattato dalla serie [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) di Sebastian Lague
 
 
 
