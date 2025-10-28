@@ -2,6 +2,9 @@
 
 # Laboratorio di Informatica
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Academic Year](https://img.shields.io/badge/Anno-2025%2F2026-green.svg)
+
 Questo repository contiene i materiali didattici e i progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
 ## Syllabus:
@@ -56,9 +59,6 @@ Il laboratorio è suddiviso in tre parti:
 **Risorse:**
 - **Piattaforma**: [CircuitVerse](https://circuitverse.org/) - simulatore di circuiti digitali online
 - **Materiale**: adattato dalla serie [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) di Sebastian Lague
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Academic Year](https://img.shields.io/badge/Anno-2025%2F2026-green.svg)
 
 ## Come Contribuire
 
