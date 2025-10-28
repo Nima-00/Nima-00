@@ -10,7 +10,7 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 2. ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
 3. ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-C)
 4. 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
-5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo/blob/main/README.md)
+5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
 6. 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
 7. ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
 
