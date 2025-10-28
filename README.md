@@ -1,4 +1,4 @@
-### II Lorenzo Guetti | Indirizzo Scienze Applicate
+### I.I. Lorenzo Guetti | Indirizzo Scienze Applicate
 
 # Laboratorio di Informatica
 
