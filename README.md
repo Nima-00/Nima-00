@@ -33,7 +33,7 @@ Ogni laboratorio ha un **repository dedicato**. Per contribuire:
 ### Tipi di contributo
 
 - 🐛 **Bug fixes** - Correzione di errori nel codice o nella documentazione
-- 📝 **Documentazione** - Miglioramenti
+- 📝 **Documentazione** - Miglioramenti per rendere la documentazione più chiara
 - 💡 **Nuovi esercizi** - Proposte di esercizi o progetti
 - ✨ **Ottimizzazioni** - Miglioramenti al codice esistente
 - 🎨 **Esempi** - Nuovi esempi pratici
@@ -47,9 +47,4 @@ Ogni laboratorio ha un **repository dedicato**. Per contribuire:
 
 ## Autori
 
-- **Nicola Maestri**
-
-## Contatti
-
-Per domande o suggerimenti:
-- 📧 Email: nicola.maestri@guetti.tn.it
+- **Nicola Maestri** [📧 email: nicola.maestri@guetti.tn.it]
