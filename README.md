@@ -14,6 +14,7 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
 6. 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
 7. ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
+8. 🤝 [Come Contribuire](#come-contribuire)
 
 ## 📐 Laboratorio: Introduzione allo Pseudocodice
 
@@ -58,7 +59,7 @@ Il laboratorio è suddiviso in tre parti:
 - **Piattaforma**: [CircuitVerse](https://circuitverse.org/) - simulatore di circuiti digitali online
 - **Materiale**: adattato dalla serie [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) di Sebastian Lague
 
-## Come Contribuire
+## 🤝 Come Contribuire
 
 Questo progetto accoglie contributi da studenti, docenti e appassionati di informatica!
 
