@@ -6,7 +6,7 @@ Questo repository contiene i materiali didattici e i progetti sviluppati nei lab
 
 ## Syllabus:
 
-1. 📐 Laboratorio: Introduzione allo Pseudocodice
+1. 📐 [Laboratorio: Introduzione allo Pseudocodice](https://github.com/Nima-00/Laboratorio-Introduzione-allo-Pseudocodice)
 2. ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
 3. ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-C)
 4. 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
