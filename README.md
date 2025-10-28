@@ -92,7 +92,7 @@ Hai trovato un errore o hai un suggerimento? Apri una [Issue](https://github.com
 
 ## Autori
 
-- **Nicola Maestri** - Mintainer principale
+- **Nicola Maestri**
 
 ## Contatti
 
