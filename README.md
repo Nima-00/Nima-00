@@ -1,9 +1,6 @@
-#### I.I. Lorenzo Guetti - Indirizzo Scienze Applicate
+#### I.I. Lorenzo Guetti - Indirizzo Scienze Applicate | ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Academic Year](https://img.shields.io/badge/Anno-2025%2F2026-green.svg)
 
 # Laboratorio di Informatica
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Academic Year](https://img.shields.io/badge/Anno-2025%2F2026-green.svg)
 
 Questo repository contiene i materiali didattici e i progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
