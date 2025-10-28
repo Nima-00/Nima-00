@@ -2,8 +2,7 @@
 
 > 🏫 **I.I. Lorenzo Guetti** | 🔬 **Indirizzo Scienze Applicate** | 📅 **A.S. 2025/2026**
 
-Questo repository contiene i materiali didattici e i progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
-
+Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
 ## Syllabus:
 
