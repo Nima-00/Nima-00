@@ -47,4 +47,4 @@ Ogni laboratorio ha un **repository dedicato**. Per contribuire:
 
 ## Autori
 
-- **Nicola Maestri** [📧 email: nicola.maestri@guetti.tn.it]
+- **Nicola Maestri**
