@@ -1,4 +1,7 @@
-#### I.I. Lorenzo Guetti - Indirizzo Scienze Applicate | ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Academic Year](https://img.shields.io/badge/Anno-2025%2F2026-green.svg)
+![Institution](https://img.shields.io/badge/I.I.-Lorenzo%20Guetti-blue.svg)
+![Program](https://img.shields.io/badge/Indirizzo-Scienze%20Applicate-green.svg)
+![Academic Year](https://img.shields.io/badge/Anno-2025%2F2026-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 # Laboratorio di Informatica
 
