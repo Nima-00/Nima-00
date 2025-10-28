@@ -88,7 +88,7 @@ Questo progetto accoglie contributi da studenti, docenti e appassionati di infor
 
 ### Segnalazione Problemi
 
-Hai trovato un errore o hai un suggerimento? Apri una [Issue](link-alle-issues)!
+Hai trovato un errore o hai un suggerimento? Apri una [Issue]([link-alle-issues](https://github.com/Nima-00/Nima-00/issues))!
 
 ## Autori
 
