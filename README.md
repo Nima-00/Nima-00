@@ -56,3 +56,50 @@ Il laboratorio è suddiviso in tre parti:
 **Risorse:**
 - **Piattaforma**: [CircuitVerse](https://circuitverse.org/) - simulatore di circuiti digitali online
 - **Materiale**: adattato dalla serie [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) di Sebastian Lague
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Academic Year](https://img.shields.io/badge/Anno-2025%2F2026-green.svg)
+
+## Come Contribuire
+
+Questo progetto accoglie contributi da studenti, docenti e appassionati di informatica!
+
+### Modalità di Contribuzione
+
+1. **Fork** del repository
+2. Crea un **branch** per la tua modifica (`git checkout -b feature/nuova-funzionalita`)
+3. **Commit** delle modifiche (`git commit -m 'Aggiunta nuova funzionalità'`)
+4. **Push** al branch (`git push origin feature/nuova-funzionalita`)
+5. Apri una **Pull Request**
+
+### Cosa puoi contribuire
+
+- 🐛 **Bug fixes** - Correzione di errori nel codice o nella documentazione
+- 📝 **Documentazione** - Miglioramenti o traduzioni
+- 💡 **Nuovi esercizi** - Proposte di esercizi o progetti
+- ✨ **Ottimizzazioni** - Miglioramenti al codice esistente
+- 🎨 **Esempi** - Nuovi esempi pratici
+
+### Linee Guida
+
+- Segui lo stile di codice esistente
+- Commenta il codice
+- Testa le tue modifiche prima di sottomettere
+- Descrivi chiaramente le modifiche nella Pull Request
+
+### Segnalazione Problemi
+
+Hai trovato un errore o hai un suggerimento? Apri una [Issue](link-alle-issues)!
+
+## Autori e Riconoscimenti
+
+- **Nicola Maestri** - Docente e maintainer principale
+- **Studenti del Lorenzo Guetti** - Contributi e feedback
+
+Un ringraziamento speciale a tutti gli studenti che hanno contribuito a migliorare questi materiali!
+
+## Contatti
+
+Per domande o suggerimenti:
+- 📧 Email: nicola.maestri@guetti.tn.it
+- 🏫 Istituto: Lorenzo Guetti, Tione di Trento
