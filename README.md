@@ -74,7 +74,7 @@ Questo progetto accoglie contributi da studenti, docenti e appassionati di infor
 ### Cosa puoi contribuire
 
 - 🐛 **Bug fixes** - Correzione di errori nel codice o nella documentazione
-- 📝 **Documentazione** - Miglioramenti o traduzioni
+- 📝 **Documentazione** - Miglioramenti
 - 💡 **Nuovi esercizi** - Proposte di esercizi o progetti
 - ✨ **Ottimizzazioni** - Miglioramenti al codice esistente
 - 🎨 **Esempi** - Nuovi esempi pratici
@@ -90,15 +90,11 @@ Questo progetto accoglie contributi da studenti, docenti e appassionati di infor
 
 Hai trovato un errore o hai un suggerimento? Apri una [Issue](link-alle-issues)!
 
-## Autori e Riconoscimenti
+## Autori
 
-- **Nicola Maestri** - Docente e maintainer principale
-- **Studenti del Lorenzo Guetti** - Contributi e feedback
-
-Un ringraziamento speciale a tutti gli studenti che hanno contribuito a migliorare questi materiali!
+- **Nicola Maestri** - Mintainer principale
 
 ## Contatti
 
 Per domande o suggerimenti:
 - 📧 Email: nicola.maestri@guetti.tn.it
-- 🏫 Istituto: Lorenzo Guetti, Tione di Trento
