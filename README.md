@@ -1,4 +1,4 @@
-# 💻 Laboratorio di Informatica
+# 🧑‍💻 Laboratorio di Informatica
 
 > 🏫 **I.I. Lorenzo Guetti** | 🔬 **Indirizzo Scienze Applicate** | 📅 **A.S. 2025/2026**
 
