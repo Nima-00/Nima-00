@@ -13,6 +13,13 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
 6. 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
 7. ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
+<!--
+8. Laboratorio: Introduzione ai database
+9. Laboratorio: Introduzione alla robotica
+10. Laboratorio: Introduzione al Machine Learning
+11. Laboratorio: Introduzione alla cyber sicurezza
+12. Laboratorio: Introduzione alla programmazione competitiva
+-->
 
 ## 🤝 Come Contribuire
 
