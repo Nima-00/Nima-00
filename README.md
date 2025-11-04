@@ -19,6 +19,9 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 10. Laboratorio: Introduzione al Machine Learning
 11. Laboratorio: Introduzione alla cyber sicurezza
 12. Laboratorio: Introduzione alla programmazione competitiva
+13. Laboratorio: Introduzione alla programmazione web (HTML, JavaScript)
+14. Laboratorio: App deployment (AWS Service)
+15. Laboratorio: Environment SetUp (Virtual Environment, Docker, Pip, uv, Package Management)
 -->
 
 ## 🤝 Come Contribuire
