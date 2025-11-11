@@ -6,7 +6,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 
 ## Syllabus:
 
-1. 🔄️ [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
+1. 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
 2. ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
 3. ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-C)
 4. 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
