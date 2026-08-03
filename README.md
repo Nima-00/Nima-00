@@ -27,8 +27,8 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 
 ## Laboratori Interdisciplinari:
 1. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
+2. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
 2. Monitoraggio Ambientale da Satellite [Programma Copernicus + Processamento di immagini]
-3. L'orecchio e la percezione del suono [Trasformate di Fourier]
 4. L'occhio e la fotocamera
 5. Image stitching
 6. Il frattale di Mandelbrot
