@@ -35,12 +35,12 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 7. Codifica Ascii e cifratura di un messaggio
 
 ## Teoria:
-⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
-📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
-🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
-⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-Cpp)
-☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
-🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
+- ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
+- 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
+- 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
+- ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-Cpp)
+- ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
+- 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
 
 
 ## 🤝 Come Contribuire
