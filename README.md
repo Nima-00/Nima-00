@@ -28,6 +28,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 ## Laboratori Interdisciplinari:
 1. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
 2. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
+3. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
 
 <!--
 2. Monitoraggio Ambientale da Satellite [Programma Copernicus + Processamento di immagini]
@@ -38,7 +39,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 
 ## Teoria:
 - ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
-- 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
+- 🌱 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
 - 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
 - ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-Cpp)
 - ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
