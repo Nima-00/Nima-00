@@ -8,7 +8,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 - ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Introduzione-Elettronica-Digitale)
 - 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Introduzione-LaTeX)
 - 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
-- ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Introduzione-Cpp)
+- ⚙️ [Introduzione a C++](https://github.com/Nima-00/Introduzione-Cpp)
 
 ## Laboratori Interdisciplinari:
 1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
