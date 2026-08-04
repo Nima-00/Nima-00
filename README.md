@@ -41,7 +41,7 @@ Questo progetto accoglie contributi da studenti, docenti e appassionati di infor
 
 ### Struttura del Progetto
 Ogni laboratorio ha un **repository dedicato**. Per contribuire:
-1. Scegli il laboratorio specifico dal [Syllabus](#syllabus)
+1. Scegli il laboratorio specifico dall'elenco
 2. Segui le modalità di contribuzione descritte sotto
 
 ### Modalità di Contribuzione
