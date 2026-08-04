@@ -24,6 +24,10 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 15. Laboratorio: Environment SetUp (Virtual Environment, Docker, Pip, uv, Package Management)
 -->
 
+## Teoria:
+- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Introduzione-Elettronica-Digitale)
+- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Introduzione-LaTeX)
+- 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
 
 ## Laboratori Interdisciplinari:
 1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
@@ -33,12 +37,8 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 
 
 <!--
-2. Monitoraggio Ambientale da Satellite [Programma Copernicus + Processamento di immagini]
 5. Image stitching
-6. Il frattale di Mandelbrot
-7. Codifica Ascii e cifratura di un messaggio
--->
-
+6. Codifica Ascii e cifratura di un messaggio
 ## Teoria:
 - ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
 - 🌱 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
@@ -46,7 +46,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 - ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-Cpp)
 - ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
 - 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
-
+-->
 
 ## 🤝 Come Contribuire
 
