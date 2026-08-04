@@ -9,6 +9,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 - 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Introduzione-LaTeX)
 - 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
 - ⚙️ [Introduzione a C++](https://github.com/Nima-00/Introduzione-Cpp)
+- 📦 [Python: Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Python-OOP)
 
 ## Laboratori Interdisciplinari:
 1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
@@ -17,7 +18,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
 
 <!--
-- 📦 Python: Programmazione Orientata agli Oggetti (OOP)
+- 🌳Python: Strutture Dati
 
 
 1. 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
@@ -31,6 +32,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 13. Laboratorio: Introduzione alla programmazione web (HTML, JavaScript)
 14. Laboratorio: App deployment (AWS Service)
 15. Laboratorio: Environment SetUp (Virtual Environment, Docker, Pip, uv, Package Management)
+16. complessità computazionale
 5. Image stitching
 6. Codifica Ascii e cifratura di un messaggio
 -->
