@@ -10,20 +10,20 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 - 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
 - ⚙️ [Introduzione a C++](https://github.com/Nima-00/Introduzione-Cpp)
 - 📦 [Python: Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Python-OOP)
+- 🌳 Python: Strutture Dati ⚠️ Work in progress ...
+- 🛠️ Workflow e Strumenti di Sviluppo: come gestire progetti complessi ⚠️ Work in progress ...
 
 ## Laboratori Interdisciplinari:
 1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
 2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
 3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
 4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
-5. 🏞️ Image-Stitching: come creare una foto panoramica
+5. 🏞️ Image-Stitching: come creare una foto panoramica ⚠️ Work in progress ...
 
 <!--
-- 🌳Python: Strutture Dati
-
 1. 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
 2. ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
-5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
+
 8. Laboratorio: Introduzione ai database
 9. Laboratorio: Introduzione alla robotica
 10. Laboratorio: Introduzione al Machine Learning
@@ -33,8 +33,8 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 14. Laboratorio: App deployment (AWS Service)
 15. Laboratorio: Environment SetUp (Virtual Environment, Docker, Pip, uv, Package Management)
 16. complessità computazionale
-5. Image stitching
-6. Codifica Ascii e cifratura di un messaggio
+
+6. Codifica Ascii e cifratura di un messaggio da cesare a RSA
 -->
 
 ## 🤝 Come Contribuire
