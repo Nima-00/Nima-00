@@ -4,18 +4,18 @@
 
 Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
-## Laboratori Interdisciplinari:
-1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
-2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
-3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
-4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
-
 ## Teoria:
 - ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Introduzione-Elettronica-Digitale)
 - 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Introduzione-LaTeX)
 - 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
 - ⚙️ [Introduzione a C++](https://github.com/Nima-00/Introduzione-Cpp)
 - 📦 [Python: Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Python-OOP)
+
+## Laboratori Interdisciplinari:
+1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
+2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
+3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
+4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
 
 <!--
 - 🌳Python: Strutture Dati
