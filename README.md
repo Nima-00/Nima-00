@@ -4,16 +4,25 @@
 
 Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
+## Teoria:
+- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Introduzione-Elettronica-Digitale)
+- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Introduzione-LaTeX)
+- 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
+- ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Introduzione-Cpp)
+
+## Laboratori Interdisciplinari:
+1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
+2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
+3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
+4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
+
 <!--
-## Syllabus:
+- 📦 Python: Programmazione Orientata agli Oggetti (OOP)
+
 
 1. 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
 2. ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
-3. ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-Cpp)
-4. 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
 5. 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
-6. 📝 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
-7. ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
 8. Laboratorio: Introduzione ai database
 9. Laboratorio: Introduzione alla robotica
 10. Laboratorio: Introduzione al Machine Learning
@@ -22,30 +31,8 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 13. Laboratorio: Introduzione alla programmazione web (HTML, JavaScript)
 14. Laboratorio: App deployment (AWS Service)
 15. Laboratorio: Environment SetUp (Virtual Environment, Docker, Pip, uv, Package Management)
--->
-
-## Teoria:
-- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Introduzione-Elettronica-Digitale)
-- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Introduzione-LaTeX)
-- 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
-
-## Laboratori Interdisciplinari:
-1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
-2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
-3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
-4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
-
-
-<!--
 5. Image stitching
 6. Codifica Ascii e cifratura di un messaggio
-## Teoria:
-- ⚡ [Laboratorio: Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Laboratorio-Introduzione-all-Elettronica-Digitale)
-- 🌱 [Laboratorio: Introduzione a LaTeX](https://github.com/Nima-00/Laboratorio-Introduzione-a-LaTeX)
-- 🐍 [Laboratorio: Introduzione a Python](https://github.com/Nima-00/Laboratorio-Introduzione-a-Python)
-- ⚙️ [Laboratorio: Introduzione a C++](https://github.com/Nima-00/Laboratorio-Introduzione-a-Cpp)
-- ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
-- 🛠️ [Laboratorio: Workflow e Strumenti di Sviluppo](https://github.com/Nima-00/Laboratorio-Workflow-e-Strumenti-di-Sviluppo)
 -->
 
 ## 🤝 Come Contribuire
