@@ -5,20 +5,20 @@
 Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
 ## Teoria:
-- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Introduzione-Elettronica-Digitale)
-- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Introduzione-LaTeX)
-- 🐍 [Introduzione a Python](https://github.com/Nima-00/Introduzione-Python)
-- ⚙️ [Introduzione a C++](https://github.com/Nima-00/Introduzione-Cpp)
-- 📦 [Python: Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Python-OOP)
+- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Teo-Introduzione-Elettronica-Digitale)
+- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Teo-Introduzione-LaTeX)
+- 🐍 [Introduzione a Python](https://github.com/Nima-00/Teo-Introduzione-Python)
+- ⚙️ [Introduzione a C++](https://github.com/Nima-00/Teo-Introduzione-Cpp)
+- 📦 [Python: Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Teo-Python-OOP)
 - 🌳 Python: Strutture Dati ⚠️ Work in progress ...
 - 🛠️ Workflow e Strumenti di Sviluppo: come gestire progetti complessi ⚠️ Work in progress ...
 
 ## Laboratori Interdisciplinari:
-1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Monitoraggio-Ambientale-con-Copernicus)
-2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
-3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
-4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
-5. 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Image-stitching)
+1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Lab-Monitoraggio-Ambientale-con-Copernicus)
+2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Lab-Gravitazione-ad-Oggetti)
+3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Lab-Sensi-e-Sensori)
+4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Lab-Insieme-di-Mandelbrot)
+5. 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Lab-Image-stitching)
 
 <!--
 1. 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
