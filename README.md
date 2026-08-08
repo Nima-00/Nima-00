@@ -5,11 +5,11 @@
 Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informatica presso l'Istituto Lorenzo Guetti nell'indirizzo Scienze Applicate.
 
 ## Teoria:
-- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Teo-Introduzione-Elettronica-Digitale)
-- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Teo-Introduzione-LaTeX)
-- 🐍 [Introduzione a Python](https://github.com/Nima-00/Teo-Introduzione-Python)
-- ⚙️ [Introduzione a C++](https://github.com/Nima-00/Teo-Introduzione-Cpp)
-- 📦 [Python: Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Teo-Python-OOP)
+- ⚡ [Introduzione all'Elettronica Digitale](https://github.com/Nima-00/Teoria-Introduzione-Elettronica-Digitale)
+- 🌱 [Introduzione a LaTeX](https://github.com/Nima-00/Teoria-Introduzione-LaTeX)
+- 🐍 [Introduzione a Python](https://github.com/Nima-00/Teoria-Introduzione-Python)
+- ⚙️ [Introduzione a C++](https://github.com/Nima-00/Teoria-Introduzione-Cpp)
+- 📦 [Python: Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Teoria-Python-OOP)
 - 🌳 Python: Strutture Dati ⚠️ Work in progress ...
 - 🛠️ Workflow e Strumenti di Sviluppo: come gestire progetti complessi ⚠️ Work in progress ...
 
