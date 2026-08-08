@@ -18,7 +18,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Gravitazione-ad-Oggetti)
 3. 🎧 [Sensi e Sensori](https://github.com/Nima-00/Sensi-e-Sensori)
 4. ❄️ [Insieme di Mandelbrot](https://github.com/Nima-00/Insieme-di-Mandelbrot)
-5. 🏞️ Image-Stitching: come creare una foto panoramica ⚠️ Work in progress ...
+5. 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Image-stitching)
 
 <!--
 1. 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
