@@ -12,6 +12,7 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 - 📦 [Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Teoria-Python-OOP)
 
 <!--
+In corso di sviluppo
 - 🌳 [Introduzione alle Strutture Dati](https://github.com/Nima-00/Teoria-Strutture-Dati)
 - 🛠️ Workflow e Strumenti di Sviluppo: come gestire progetti complessi ⚠️ Work in progress ...
 - 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
@@ -26,19 +27,17 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 5. 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Lab-Image-stitching)
 
 <!--
-
-
-8. Laboratorio: Introduzione ai database
-9. Laboratorio: Introduzione alla robotica
-10. Laboratorio: Introduzione al Machine Learning
-11. Laboratorio: Introduzione alla cyber sicurezza
-12. Laboratorio: Introduzione alla programmazione competitiva
-13. Laboratorio: Introduzione alla programmazione web (HTML, JavaScript)
-14. Laboratorio: App deployment (AWS Service)
-15. Laboratorio: Environment SetUp (Virtual Environment, Docker, Pip, uv, Package Management)
-16. complessità computazionale
-
-6. Codifica Ascii e cifratura di un messaggio da cesare a RSA
+Idee ancora da esplorare
+- Laboratorio: Introduzione ai database
+- Laboratorio: Introduzione alla robotica
+- Laboratorio: Introduzione al Machine Learning
+- Laboratorio: Introduzione alla cyber sicurezza
+- Laboratorio: Introduzione alla programmazione competitiva
+- Laboratorio: Introduzione alla programmazione web (HTML, JavaScript)
+- Laboratorio: App deployment (AWS Service)
+- Laboratorio: Environment SetUp (Virtual Environment, Docker, Pip, uv, Package Management)
+- complessità computazionale
+- Codifica Ascii e cifratura di un messaggio da cesare a RSA
 -->
 
 ## 🤝 Come Contribuire
