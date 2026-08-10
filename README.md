@@ -11,14 +11,6 @@ Raccolta dei materiali didattici e progetti sviluppati nei laboratori di Informa
 - ⚙️ [Introduzione a C++](https://github.com/Nima-00/Teoria-Introduzione-Cpp)
 - 📦 [Programmazione Orientata agli Oggetti](https://github.com/Nima-00/Teoria-Python-OOP)
 
-<!--
-In corso di sviluppo
-- 🌳 [Introduzione alle Strutture Dati](https://github.com/Nima-00/Teoria-Strutture-Dati)
-- 🛠️ Workflow e Strumenti di Sviluppo: come gestire progetti complessi ⚠️ Work in progress ...
-- 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
-- ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
--->
-
 ## Laboratori Interdisciplinari:
 1. 🛰️ [Monitoraggio Ambientale con Copernicus](https://github.com/Nima-00/Lab-Monitoraggio-Ambientale-con-Copernicus)
 2. 🌌 [Gravitazione ad Oggetti](https://github.com/Nima-00/Lab-Gravitazione-ad-Oggetti)
@@ -27,6 +19,12 @@ In corso di sviluppo
 5. 🏞️ [Image-Stitching: come creare una foto panoramica](https://github.com/Nima-00/Lab-Image-stitching)
 
 <!--
+In corso di sviluppo
+- 🌳 [Introduzione alle Strutture Dati](https://github.com/Nima-00/Teoria-Strutture-Dati)
+- 🛠️ Workflow e Strumenti di Sviluppo: come gestire progetti complessi ⚠️ Work in progress ...
+- 🔤 [Laboratorio: Introduzione agli Algoritmi](https://github.com/Nima-00/Laboratorio-Introduzione-agli-Algoritmi)
+- ☕ [Laboratorio: Introduzione a Java](https://github.com/Nima-00/Laboratorio-Introduzione-a-Java)
+
 Idee ancora da esplorare
 - Laboratorio: Introduzione ai database
 - Laboratorio: Introduzione alla robotica
